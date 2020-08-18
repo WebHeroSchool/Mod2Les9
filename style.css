@@ -1,0 +1,37 @@
+body {
+  text-decoration-line: underline;
+  text-decoration-color: white;
+  background-color: salmon;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.header {
+  background-color: red;
+  text-align: center;
+  color: blue;
+}
+
+.section__text {
+  column-count: 3;
+  text-indent: 20px;
+  font-style: oblique;
+}
+
+.section__title {
+  color: blue;
+  background-color: #808080;
+  box-shadow: 20px 20px 50px #00FFFF;
+  border: 5px solid #00FFFF;
+  border-radius: 5px;
+  width: 120px;
+  padding: 10px;
+  margin: 20px 170px;
+  cursor: pointer;
+  overflow: visible;
+  text-align: center;
+}
+
+.footer__text {
+  text-shadow: 4px 4px 8px white;
+}
