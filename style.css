@@ -2,13 +2,20 @@ body {
   text-decoration-line: underline;
   text-decoration-color: white;
   background-color: salmon;
-  font-family: fantasy;
+  font-family: 'Bad Script', cursive;
   font-weight: bold;
 }
 
 .header {
   background-color: red;
   text-align: center;
+  color: blue;
+}
+
+.header__title {
+  background-color: yellow;
+  text-align: center;
+  font-family: 'Kelly Slab', cursive;
   color: blue;
 }
 
